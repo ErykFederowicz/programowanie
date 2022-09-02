@@ -1,0 +1,2 @@
+# programowanie
+kocham c++
